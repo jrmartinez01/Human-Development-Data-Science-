@@ -15,3 +15,6 @@ Jasmin Martinez
 ## Assignments
 
  1. Annotated Bibliography 
+    - Problem Statement 
+    - Sellected LMIC or Region 
+    - Dimension of Human Devleopment 
