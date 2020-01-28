@@ -10,6 +10,8 @@ Jasmin Martinez
 
 1. 
 
-##Projects 
+## Projects 
 
-##Assignments
+## Assignments
+
+ 1. Annotated Bibliography 
