@@ -4,7 +4,7 @@ Jasmin Martinez
 
 ## Informal Responses
 
-1. Blumenstock (Jan. 28)  
+1. [Blumenstock Response] 
 
 ## Formal Assignments 
 
