@@ -4,7 +4,7 @@ Jasmin Martinez
 
 ## Informal Responses
 
-1. [Blumenstock Response- Jan. 28](jrmartinez01.github.io/workshop3/blumenstock/)
+1. [Blumenstock_Response- Jan. 28](jrmartinez01.github.io/workshop3/Blumenstock_Response/)
 
 ## Formal Assignments 
 
