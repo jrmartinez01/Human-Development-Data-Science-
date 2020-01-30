@@ -16,5 +16,5 @@ Jasmin Martinez
 
  1. Annotated Bibliography 
     - Problem Statement 
-    - Sellected LMIC or Region 
+    - Selected LMIC or Region 
     - Dimension of Human Devleopment 
