@@ -10,7 +10,7 @@ Jones decided to take a leap of faith and distort and randomly put the piece bac
 
 # Question 3: 
 
-Response Question: What was the toaster project? What did Thomas Thuasites attempt to do? Was he successful? What is the significance of these examples in the content of complexity? 
+Response Question: What was the toaster project? What did Thomas Thwaite attempt to do? Was he successful? What is the significance of these examples in the content of complexity? 
 
 Thomas Thwaite, a British designer, wanted to build a toaster from scratch. He wanted to gather all the raw material to make the toaster and then put it together to make a functional toaster. In the end it took him around 9 months to finish making a toaster that did not work and ended up catching on fire. 
 
