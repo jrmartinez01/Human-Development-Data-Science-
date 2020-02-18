@@ -2,7 +2,7 @@
 
 # Question 10:
 
-Response Question: Who was Steve Jones? What did he do at uni-level? Was he successful? How significant were his results? 
+Response Question: Who was Steve Jones? What did he do at uni-lever? Was he successful? How significant were his results? 
 
 Steve Jones worked at a company making soap powder. The soap power was made through mixing a wide array of chemicals together into a liquid and then using a spray nozzle to create enough pressure to crystallize the mixture and create the soap powder. The issue that he, and other scientists, faced was creating the most efficient nozzle that could create the most amount of product. There were other scientists that had worked on this for years and still could not get a model that worked more efficiently than the one that already existed. Instead of just sitting and trying to create new models of the nozzle, Jones made 10 copies of the already existing nozzle and began to randomly distort them. He then tested out each one and then  after several tries he ended up creating a nozzle that creates a 20& increase the efficiency of the nozzle, and it is still the most efficient to this day. 
 
