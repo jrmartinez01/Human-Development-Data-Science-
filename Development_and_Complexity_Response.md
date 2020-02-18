@@ -1,4 +1,6 @@
-Question 10:
+# DEVELOPMENT AND COMPLEXITY 
+
+# Question 10:
 
 Response Question: Who was Steve Jones? What did he do at uni-level? Was he successful? How significant were his results? 
 
@@ -6,7 +8,7 @@ Steve Jones worked at a company making soap powder. The soap power was made thro
 
 Jones decided to take a leap of faith and distort and randomly put the piece back together. He came out successful and his findings were significant in the industry he worked in. This was used as an example of adaptive change that was talked about the Development and Complexity podcast. Which, like Owen Barder said “it doesn’t just bring about small improvements; it often brings about startling, game‐changing jumps to new solutions.” 
 
-Question 3: 
+# Question 3: 
 
 Response Question: What was the toaster project? What did Thomas Thuasites attempt to do? Was he successful? What is the significance of these examples in the content of complexity? 
 
