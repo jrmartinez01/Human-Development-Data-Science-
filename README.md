@@ -16,4 +16,4 @@ Jasmin Martinez
 
 ## Assignments
 
- 1. [Annotated Bibliography- Assignment 1] (https://github.com/jrmartinez01/workshop3/blob/master/Assignment_1.md)
+ 1. [Annotated Bibliography- Assignment 1](https://github.com/jrmartinez01/workshop3/blob/master/Assignment_1.md)
