@@ -1,6 +1,8 @@
 # ASSIGNMENT 1 
 Jasmin Martinez 
+
 Human Development and Data Science- DATA 150 
+
 Professor Tyler Frazier 
 
 # Problem Statement 
