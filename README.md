@@ -9,7 +9,7 @@ Jasmin Martinez
 3. [Development and Complexity Response (3&10)- Feb. 18](https://jrmartinez01.github.io/workshop3/Development_and_Complexity_Response)
 4. [Anderson & Kitchin Readings: Big Data and New Theories- Feb. 25](https://jrmartinez01.github.io/workshop3/Anderson_Kitchin_Response)
 5. [Stevens et al. Response- Mar. 26](https://jrmartinez01.github.io/workshop3/Stevens_Response)
-6. [Nieves et al. Response- Mar. 31]
+6. [Nieves et al. Response- Mar. 31](https://jrmartinez01.github.io/workshop3/Nieves_Response)
 
 ## Formal Assignments 
 
