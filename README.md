@@ -20,4 +20,4 @@ Jasmin Martinez
 ## Assignments
 
  1. [Assignment 1-Annotated Bibliography](https://jrmartinez01.github.io/workshop3/Assignment_1)
- 2. [Assignment 2-Literature Review] (https://jrmartinez01.github.io/workshop3/Assignment_2)
+ 2. [Assignment 2-Literature Review](https://jrmartinez01.github.io/workshop3/Assignment_2)
