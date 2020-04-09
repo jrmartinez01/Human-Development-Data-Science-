@@ -1,9 +1,9 @@
-#Geotagging for improved prediction of mortality due to border crossings at the U.S/Mexico border and the Mediterranean border. 
+# Geotagging for improved prediction of mortality due to border crossings at the U.S/Mexico border and the Mediterranean border. 
 
 by Jasmin Martinez 
 April 5, 2020 
 
-#Introduction 
+## Introduction 
 
 The purpose of this research is to improve upon the use of geotagging and geospatial intelligence data at international borders to generate a more specific number for monitoring the increase in mortality at international borders due to migration and identify problems by specifying, estimating, and validating a linear regression model as compared to previous models. Central to achieving this research goal of classifying migrants’ death due to the increase in border security through a linear regression model will be increasing the resolution of the United States/Mexico border and the Mediterranean Sea and through an accurate assessment of deaths. I will achieve this goal by meeting the following objectives: 
 
@@ -14,7 +14,7 @@ Use survey data to estimate a linear regression model for predicting migrant dea
 This work will build on previous research by Samuel Norton Chambers and Franziska Hübl and will incorporate new methods to implement an accurate count of mortality at the borders as well recent advances towards inferring how future an increase in surveillance and security as the border will have an impact on migrant mortality.  
 
 
-Human Development Topic
+## Human Development Topic
 
 Migration has been seen throughout centuries around the world. It has led to diversity and has allowed cultures to interact with one another. Migrants face a hard decision when deciding to leave their home countries due to economic, social, and political constraints and inequalities. To expand their real freedoms, migrants migrate to destination countries that provide a greater opportunity to increase these freedoms and progress in human development. I focused on two areas where migrant crossing has increased since the early 2000s: migration from Mexico to the United States, across the U.S./Mexico border, and migration from the Middle East to Greece, across the Mediterranean Sea. 
 
@@ -22,7 +22,7 @@ My dimension of human development relates to Amartya Sen’s definition of human
 
 This topic and research question arose from considering why these migrants are immigrating and the sustainable development goals that are being met or neglected and who they benefit. Migrants tend to leave their home countries to end poverty, which is the first sustainable development goal. People leave their home countries in order to look for economic opportunities abroad, where the minimum wage is usually higher, where there are more jobs available for unskilled workers, and more affordable housing with better living conditions. Migrants leave their homes to receive a quality education or ensure their children have the opportunity to do so, which is the fourth sustainable development goal. Finally, migrants may choose to leave their country of origin to reduce the overall inequalities that are present in their nations, which is the tenth sustainable development goal. While migrants are trying to meet these sustainable development goals by moving to their destination country they are unfortunately faced with an increase in innovation and infrastructure at these boards, which forces them to find alternative ways to enter these destination countries. This increase in innovation and infrastructure is part of the ninth sustainable development goal. This strive towards reaching these four sustainable development goals shows how an increase in sustainable development and human development process positive and negative facet to both migrants. Here, one can see the different perspectives on the impact of border security and in seeing this one can understand the difficult decisions destination countries must face when attempting to secure their borders.  
 
-Human Development Process
+## Human Development Process
 
 The U.S./Mexico and Medditarrean Sea have seen an increase in migration from the early 2000s until now. These two borders have seen an increase in security and surveillance over the years due to the influx of migrants from the south. This increase has led to a “funnel effect” and pushed migrants to travel on routes that are more dangerous and high risk. I focused on the topic of human migration patterns to investigate if a correlation between increased security and increased mortality exists. 
 
@@ -30,7 +30,7 @@ At both borders, there are migrants crossing which are usually low-income and ha
 
 The increase in mortality at both borders shows how this process behaves as a complex adaptive system. As nations begin to criminalize unauthorized migration, there seems to be an increase in funding for security at these borders- both in manpower and physical barriers [2]. This increase in security leaves migrants forced to find new routes to enter their destination countries and in attempting to adapt to this change they are faced with new, unknown, and dangerous terrain. This new risk has led to an increase in migrant mortality. In “Mortality, Surveillance and the Tertiary “Funnel Effect” on the U.S.-Mexico Border: A Geospatial Modeling of the Geography of Deterrence” Chambers introduces the appalling fact that increased surveillance at the U.S./Mexico border has led to a 20-fold increase in death and disappearance of migrants [3]. Since the early 2000s, both borders have been through a process of emergence and, with rates of incoming migrants increasing, the emergence does not seem to decrease at any time in the near future. 
 
-Geospatial Data Science Methods
+## Geospatial Data Science Methods
 
 I looked at the data collected from the apprehensions made at the border. In “The Effects of Geospatial-Intelligence on United States-Mexico Border Security” report the U.S. interpretation of the securitization theory and increase in geospatial intelligence (GEOINT) is introduced to address the increase in security on the U.S.-Mexico border. The securitization theory emphasizes an extraordinary means to be used in the name of security, which has been seen at the southern border since the event of 9/11. In this report data from GEOINT, which provides situational awareness of crossings, and Customs Border Patrol (CBP) was used to create geospatial maps demonstrating the “operational control of the border” and displaying areas where the illegal crossing was occurring. The main focus of this report was the illegal entries correlated with drug crime and the research recognized that free migration should be provided to those escaping situations which prohibit their freedoms and hinder human development [2]. 
 
@@ -45,13 +45,13 @@ The situation at the Mediterranean border was analyzed in a completely different
 
 Hubl concludes that the primary refugee route was along the Mediterranean Sea into port cities in Greece. Distance-bounded eventing clustering was used to conclude this with the help of geo-tags from tweets of refugees[8]. This also increases the thought of the danger associated with this form of travel and how increased security at sea can harm asylum-seekers and refugees making this journey. The drive to understand these migration patterns is mainly for administrative logistics, which include accommodation, transportation, education, and distribution of refugees. All efforts to help refugees develop in these European countries that are unknown to them. By increasing the quality of life for these refugees in these new nations there is an expansion of freedoms related that also help to increase global human development. With this, refugees can expand their social, economic, and political freedoms. But one must also consider the excessive amounts of risks that come with this form of travel, such as getting lost and becoming victims of trafficking and robbery. This report gives a good insight into the migration patterns and routes taken by these refugees and also takes into consideration the tenth UN sustainable development goal, reduced inequality[4].
  
-Discussion
+## Discussion
 
 
 Throughout my research, it posed difficult to find geospatial data to describe the phenomenons that were occurring at these borders. The main issue was presented in finding an accurate number of migrants that had disappeared or died at each border. I started by researching how migration routes have changed between both borders and then continued by researching the rate of mortality at each border. So far, I have been able to see the routes that migrants have taken in the past and the routes that are being taken more commonly today. These new routes have definitely been impacted by the increase in security that has been seen, but I have yet to find a report that can accurately estimate how much of an impact the increase in security has really made. My objective is to investigate how morality can be accurately accounted for at these border crossings and then investigate the correlation these deaths have with the increase in security. 
 
 
-References 
+## References 
 
 [1]  Weeks, J. R., Stoler, J., & Jankowski, P. (2010, December 27). Who's crossing the border: new data on undocumented immigrants to the United States. Retrieved February 16, 2020, from https://www.doi.org/10.1002/psp.563
 
