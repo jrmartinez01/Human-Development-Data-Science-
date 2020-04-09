@@ -8,9 +8,9 @@ April 5, 2020
 
 The purpose of this research is to improve upon the use of geotagging and geospatial intelligence data at international borders to generate a more specific number for monitoring the increase in mortality at international borders due to migration and identify problems by specifying, estimating, and validating a linear regression model as compared to previous models. Central to achieving this research goal of classifying migrants’ death due to the increase in border security through a linear regression model will be increasing the resolution of the United States/Mexico border and the Mediterranean Sea and through an accurate assessment of deaths. I will achieve this goal by meeting the following objectives: 
 
-Use remotely sensed data to estimate the number of migrants crossing the U.S./Mexico border and the Mediterranean Sea border
+1. Use remotely sensed data to estimate the number of migrants crossing the U.S./Mexico border and the Mediterranean Sea border
  
-Use survey data to estimate a linear regression model for predicting migrant death rates at the border, the rate of change of surveillance, and the rate of change of common routes taken by migrants
+2. Use survey data to estimate a linear regression model for predicting migrant death rates at the border, the rate of change of surveillance, and the rate of change of common routes taken by migrants
  
 This work will build on previous research by Samuel Norton Chambers and Franziska Hübl and will incorporate new methods to implement an accurate count of mortality at the borders as well recent advances towards inferring how future an increase in surveillance and security as the border will have an impact on migrant mortality.  
 
