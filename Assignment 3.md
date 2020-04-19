@@ -1,8 +1,8 @@
-#Geospatial Methods for measuring mortality rate at international borders  
+# Geospatial Methods for measuring mortality rate at international borders  
 Jasmin Martinez
 April 19, 2020
 
-##Introduction 
+## Introduction 
 Migration has been seen throughout centuries around the world. It has led to diversity and has allowed cultures to interact with one another. Migrants face a hard decision when deciding to leave their home countries due to economic, social, and political constraints and inequalities. To expand their real freedoms, migrants migrate to destination countries that provide a greater opportunity to increase these freedoms and progress in human development. I focused on two areas where migrant crossing has increased since the early 2000s: migration from Mexico to the United States, across the U.S./Mexico border, and migration from the Middle East to Greece, across the Mediterranean Sea. 
 
 My dimension of human development relates to Amartya Sen’s definition of human development. Sen defines human development in his book Development as Freedom as “a process of expanding real freedoms that people enjoy.” My dimension relates to this definition when applied to the reasons for migrants leaving their home countries. Migrants face a hard decision to either stay in their home country to migrate to a destination country. 
@@ -11,10 +11,10 @@ This topic was considered while analyzing why these migrants are immigrating. Mi
 
 This increase in innovation and infrastructure is part of the ninth sustainable development goal. This strive towards reaching these four sustainable development goals shows how an increase in sustainable development and human development process can be both a positive and negative facet to migrants. Here, one can see the different perspectives on the impact of border security and in seeing this one can understand the difficult decisions destination countries must face when attempting to secure their borders.  
 
-##Inquiry Type
+## Inquiry Type
 With the many routes left to consider surrounding this topic, this geospatial human development process seeks to answer an explanatory inquiry. The inquiry placed here is How does human migration affect mortality at borders? My research is focused on the United States/Mexico border and the Mediterranean Sea. I researched variables that could affect the mortality rate at these borders with a heavy emphasis on surveillance and security. 
 
-##Data/Methods 
+## Data/Methods 
 Method 1: Geotagging 
 In past years, migration was tracked using surveys and census’ but these efforts proved to be costly and time-consuming [11]. Therefore, Social media, such as Twitter, is now being used by institutions, such as the Institute for Cross-Disciplinary Physics and Complex Systems, to track human migration around the world. The data is collected from Twitter and is then handled in a meticulous manner in order to extract the correct information to display the routes migrants took based on the locations where they were tweeting from. This process is known as Geotagging and is explained in the article by Hübl [4]. 
 
@@ -46,16 +46,19 @@ This allowed the investigation of any big significant differences between the LC
 
 Figure 4
 
-Results
+## Results
 The U.S./Mexico and Medditarrean Sea have seen an increase in migration from the early 2000s until now. These two borders have seen an increase in security and surveillance over the years due to the influx of migrants from the south. This increase has led to a “funnel effect” and pushed migrants to travel on routes that are more dangerous and high risk. I focused on the topic of human migration patterns to investigate if a correlation between increased security and increased mortality exists. 
 
 At both borders, there are migrants crossing which are usually low-income and have seen a decline in education, economic, and social opportunities in their home countries [1]. Although these are all prominent push factors for these migrants, in “Who's crossing the border: new data on undocumented immigrants to the United States” Weeks explains that the biggest push factor is an increase in violence and corruption seen in these migrants countries of origin [1]. The weeks or months each migrant travels is full of dangerous terrain with unpredictable circumstances. As the number of migrants crossing these borders have increased, so have the efforts of nations to stop migrants from entering into their countries. An increase in surveillance and security at these borders has decreased the rate of migrants attempting to cross into their destination countries [2]. But, the migrants that are still attempting to cross this increase have led them to cross at areas that are more isolated and dangerous to go unnoticed and decrease apprehension risks [2]. This pattern, seen at the Medditarean border and the U.S./Mexico border is known as the “funnel effect”, defined as the forcing of migrants to travel through areas of high risk [3]. This has created hotspots in areas with less security and cold spots in areas that are known for high rates of apprehension [3]. At the Mediterranean border, there were 4,690 deaths reported in 2016, which was the year with the highest rate of migrants crossing [6].  
 
 The increase in mortality at both borders shows how this process behaves as a complex adaptive system. As nations begin to criminalize unauthorized migration, there seems to be an increase in funding for security at these borders- both in manpower and physical barriers [2]. This increase in security leaves migrants forced to find new routes to enter their destination countries and in attempting to adapt to this change they are faced with new, unknown, and dangerous terrain. This new risk has led to an increase in migrant mortality. In “Mortality, Surveillance and the Tertiary “Funnel Effect” on the U.S.-Mexico Border: A Geospatial Modeling of the Geography of Deterrence” Chambers introduces the appalling fact that increased surveillance at the U.S./Mexico border has led to a 20-fold increase in death and disappearance of migrants [3]. Since the early 2000s, both borders have been through a process of emergence and, with rates of incoming migrants increasing, the emergence does not seem to decrease at any time in the near future. 
  
-Further Study
+## Further Study
 Research surrounding this topic has seen progress but seeing that human migration is hard to track due to the fears of migrants it still has many open routes to travel. In my research, it was difficult to find articles and papers that used the same models in both the U.S./Mexico border and the Mediterranean Sea. Due to this difficulty, it poses a problem when trying to correlate the two funnel effects occurring at both borders. The research papers I found and the references included below were focused on the spatial data, and few included temporal analysis. Finally, the biggest issue that was presented was these are hypothetical routes that migrants took or could take. Hübl’s data did not discern between the type of migration that was occurring across the Mediterranean Sea. The data could have included migration due to travel and this would have created an issue when analyzing the data. Chambers’s data was looking at the terrain of Arizona and Sonora and didn't use routes that are specifically used by migrants. The routes were more hypothetical and therefore the analysis could have flaws. In both cases, there are definitely improvements to be done but with the resources currently provided, they do present good models. In the future, with better resources and innovations in technology to be able to truly track these human migration patterns I believe we will have the opportunity to analyze this issue better. 
-References 
+
+
+## References 
+
 [1]  Weeks, J. R., Stoler, J., & Jankowski, P. (2010, December 27). Who's crossing the border: new data on undocumented immigrants to the United States. Retrieved February 16, 2020, from https://www.doi.org/10.1002/psp.563
 
 [2] Martin, H. (2018). The Effects of Geospatial-Intelligence on United States-Mexico Border Security. Retrieved February 16, 2020, from https://www.aquila.usm.edu/cgi/viewcontent.cgi?article=2556&context=dissertations 
