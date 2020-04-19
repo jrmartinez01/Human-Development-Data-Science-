@@ -21,3 +21,4 @@ Jasmin Martinez
 
  1. [Assignment 1-Annotated Bibliography](https://jrmartinez01.github.io/Human-Development-Data-Science-/Assignment_1)
  2. [Assignment 2-Literature Review](https://jrmartinez01.github.io/Human-Development-Data-Science-/Assignment_2_LiteratureReview)
+ 3. [Assignment 3- Methodology Review] (https://jrmartinez01.github.io/Human-Development-Data-Science-/Assignment_3)
