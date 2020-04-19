@@ -53,7 +53,7 @@ Once these routes were established, the sum of the caloric cost values of each r
 
 And 
 
-1[](Equ_4.PNG)
+![](Equ_4.PNG)
 
 This allowed the investigation of any big significant differences between the LCP and DLCP of each route. The TCC of both the LCP and the DLCP were then used to Linear regression model in which showed the relationship between the TCC and the distance traveled Print routes between Arizona and Sonora (figure 4). 
 ![](Figure_4.PNG)
