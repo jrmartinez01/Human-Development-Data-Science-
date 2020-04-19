@@ -20,29 +20,33 @@ In past years, migration was tracked using surveys and census’ but these effor
 
 The data collected of the investigation contains data including the user id, the creation date of the account, number of followers, the tweet itself, tweet id, text creation date and time, place, bounding box, place type, and position coordinates. The tweets are then filtered, processed, and a spatial filter is applied to the tweets in order to localize where the tweets are coming from on a map (figure 1). Variables such as speed, distance, and hashtag filters were used to base the movement of migrants between their home country and destination country. 
 ![](Figure_1.PNG)
+
 Figure 1
 To visualize the most accurate patterns of movement, the V-Analytics software is used. This allowed the creating of a sorted list with locations and timestamps from the tweets. The trajectory points were extracted (this included start and end points along with any large pauses in movement) and those points were then placed into groups based on spatial proximity. The area is then partitioned into Voronoi cells, which were used as the locations to visualize movement. The trajectories were then divided into segments, in this case, a trajectory represents a sequence of Voronoi cells. The data is then aggregated and the aggregated movements are represented by arrows and the width of the arrows are proportional to the counts present on that route (figure 2).
+![](Figure_2.PNG)
 
 Figure 2  
 
 
 Method 2: Linear Regression Model 
 In order to track the movements of migrants across the United States/Mexico border, a linear regression model was used to model the relationship between the distance of travel and the total caloric cost. To create the linear regression model the caloric distance was measured by calculating the potential metabolic rate, in watts, of the routes of travel[3]. In this case, the routes were all between Arizona, USA and Sonora, Mexico. The equations 
-
+![](Equ_1.PNG)
 And 
-
+![](Equ_2.PNG)
 Were used to calculate the total caloric cost to travel across a specific route.  In these formulas, w is the average weight of a person, l is the load carried in kg, v is the walking speed in m/s, s is the slope in the percentage of terrain, and n is the terrain factor [3]. 
 
 
 In order to find the caloric cost of the different routes, hypothetical routes were created by placing a total of 80 Points were used, 40 of these points were in Mexico and 40 of these points were in the United States. These points were then connected using both LCP and DLCP, Calculated using the caloric cost equations above (figure 3). 
+![](Figure_3.PNG)
 
 Figure 3
 
 Once these routes were established, the sum of the caloric cost values of each route was calculated to produce the total caloric cost (TCC). TTC was calculated using the following two equations, 
-
+![](Equ_3.PNG)
 And 
-
+1[](Equ_4.PNG)
 This allowed the investigation of any big significant differences between the LCP and DLCP of each route. The TCC of both the LCP and the DLCP were then used to Linear regression model in which showed the relationship between the TCC and the distance traveled Print routes between Arizona and Sonora (figure 4). 
+![](Figure_4.PNG)
 
 Figure 4
 
